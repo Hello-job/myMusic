@@ -24,6 +24,7 @@ npm run test:e2e
 ```
 npm run lint
 ```
-
+### 项目说明
+练手项目
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

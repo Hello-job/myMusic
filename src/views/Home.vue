@@ -1,6 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <img alt="原型链" src="../assets/protype.png" />
+    <img alt="原型链" src="../assets/prototype.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
